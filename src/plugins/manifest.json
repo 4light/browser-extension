@@ -1,0 +1,82 @@
+{
+  "manifest_version": 3,
+  "name": "Moka Test Tools",
+  "description": "测试用插件",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "hello-word-plugin",
+    "default_icon": {
+      "48": "assets/icon48.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "externally_connectable": {
+    "matches": [
+      "*://*.mokahr.com/*"
+    ]
+  },
+  "background": {
+    "service_worker": "js/background.js"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "cookies",
+    "webRequest",
+    "activeTab",
+    "webRequest",
+    "downloads",
+    "management",
+    "notifications",
+    "scripting"
+  ],
+  "file_browser_handlers": [
+    {
+      "file_filters": ["*/*"],
+      "supported_directories": ["root"]
+    }
+  ],
+  "host_permissions": [
+    "<all_urls>",
+    "http://*/*",
+    "https://*/*",
+    "https://gitlab.mokahr.com/*",
+    "*://*.mokahr.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "js/content-script.js"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "js/inject.js"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    },
+    {
+      "resources": [
+        "js/popup.js"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    }
+  ]
+}

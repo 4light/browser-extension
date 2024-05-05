@@ -1,0 +1,30 @@
+{
+  "id": "4059455",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-myIcon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9866703",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "20312949",
+      "name": "说明",
+      "font_class": "shuoming",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "12881315",
+      "name": "anchor",
+      "font_class": "maodian",
+      "unicode": "e83b",
+      "unicode_decimal": 59451
+    }
+  ]
+}

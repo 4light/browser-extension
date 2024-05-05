@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar!/org/apache/commons/lang3/text/translate/CharSequenceTranslator.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chromoka/app/js/content-scripts/clippers/boss.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mage-hr-web-client/src/main-app/components/candidates/header/CandidateEditInfo.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mage-hr-web-client/src/main-app/constants/common.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mage-hr-web-client/src/main-app/redux/actions/applications.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mage-hr-web-client/src/main-app/utils/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/main.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/permission.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/router/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/styles/index.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/utils/dateUtils.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/autotest/ModuleManager.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/autotest/SceneExectedLogManager.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/autotest/Scenedetail.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/autotest/ServerManager.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/autotest/SubmoduleManager.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/autotest/TaskManager.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/dataTable.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/demandDataTable.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/efficiencyView.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/index.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/monthlyBugTrend.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/offlineQualityView.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/omissionBugView.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/qualityView.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/dashboard/atsdashboard/storeDataTable.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/login/index.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-autotest-fe/src/views/testtools/ats/Record.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/__init__.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/api_1.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/count_backlog.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/create_flow_instance.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/flowInst_detail.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/flow_instanc_detail.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/get_detail.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/get_detail_HM.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/get_detail_HR.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/get_flow_instance_status.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/hm_show.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/hr_operation.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/hr_show.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/list_backlog.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/list_flow_instanc_by_offer_id.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/offer_form_data.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/re_start_instance.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/remind_instance.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/start_instance.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/start_instance_batch.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/testhuidu.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/api_lib/update_flow_instance.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/common/ats_config.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/data/application_id.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/data/flowInstDetailBody.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/data/flow_instance_id.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/data/flow_task_instance_id.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/data/offer_id.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-locust-script/locustfile.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.git/info/exclude">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/sonarIssues.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dist/js/background.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dist/js/content-script.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/node_modules/webpack/lib/Compilation.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/background/main.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/plugins/content-script.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/plugins/getOrgId.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/plugins/inject.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/plugins/manifest.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/App.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/AtsCreateHC.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/AtsCreateJob.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/AtsCreateOrgAddr.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/AtsPlatform.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/AtsToolsView.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/BiToolsView.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/atsCreateCandidate.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/components/atsToolsView.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/popup/main.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/util/track.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-common/src/main/java/com/moka/hcm/httpCommon/HttpClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-common/src/main/java/com/moka/hcm/httpCommon/HttpHtmlRespouse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-common/src/main/java/com/moka/hcm/httpCommon/HttpJsonRespones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-common/src/main/java/com/moka/hcm/utils/MailUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-dao/src/main/java/com/moka/dao/mysql/Interface/ExecrecordMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-dao/src/main/java/com/moka/dao/mysql/autotest/TaskMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-dao/src/main/java/com/moka/dao/mysql/jira/JiraBugDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-dao/src/main/java/com/moka/dao/mysql/jira/JiraStoryDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/BiContextInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/BrowserContentInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/BrowserContextInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/ChannelInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/CurrentInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/CurrentUserInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/CurrentUserInfos.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/CurrentlInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/GenericQueryBugInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/HcmContextInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/HcmUserInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/HcmUserInfos.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/InterviewerInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/JobAndChannelInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/JobChannelInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/JobInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/OfflineQualityRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/POJO/ReportInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/common/FilterInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/jira/bug/BugField.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/jira/bug/JiraBugDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-domain/src/main/java/com/moka/hcm/domain/jira/story/JiraStoryDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/ats/CandidateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/ats/CandidatesService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/ats/Impl/CandidatesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/ats/Impl/JcServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/ats/Impl/PlatformServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/ats/JcService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/autotest/ConnectionDB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/autotest/impl/ExecImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/autotest/impl/ExecSimpleImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/autotest/impl/TaskImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/autotest/impl/autologin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/autotest/impl/tools.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/bi/BiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/bi/impl/BiServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/common/AsyncTaskService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/common/Testt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/conf/TaskExecutorConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/config/TaskExecutorConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/config1/TaskExecutorConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/JiraBugsOperatService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/JiraStoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/JiraTestBugService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/impl/JiraBugsOperatServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/impl/JiraCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/impl/JiraStoryServiceImp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/impl/JiraTestBugService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/impl/JiraTestBugServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/jira/impl/JitaTestBugService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/pp/HcmService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/pp/Impl/HcmServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-service/src/main/java/com/moka/hcm/service/task/TaskCallWeixin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/Interface/CaseDetailController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/autotest/SceneDetailController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/jira/JiraStoryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/jira/JiraTestBugController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/jira/jiraBugController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/testtools/AtsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/testtools/AtsCreateCandidateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/testtools/AtsJCController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/testtools/BiController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/testtools/ExecrecordController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/java/com/moka/hcm/controller/testtools/HcmController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/resources/SqlMapper/Interface/execrecordMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/resources/SqlMapper/hcmSQLMapper/JiraBugDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../moka-tools-api/auto-web/src/main/resources/SqlMapper/hcmSQLMapper/JiraStoryDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my-project/.stylelintrc.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my-project/src/views/dashboard/Analysis.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-demo/src/main/java/demo/AddMember.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-demo/src/main/java/demo/TestDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-demo/src/main/java/demo/TestDemo6.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-demo/src/main/java/demo/ThreadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

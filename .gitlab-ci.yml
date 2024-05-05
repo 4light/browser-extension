@@ -1,0 +1,15 @@
+image: node:lts-alpine
+
+stages:
+  - build
+
+before_script:
+  - npm install
+
+build:
+  stage: build
+  script:
+    - npm run build
+  artifacts:
+    paths:
+      - dist/
